@@ -9,7 +9,7 @@ using ead2dbRepeat;
 namespace ead2dbRepeat.Migrations
 {
     [DbContext(typeof(ForecastContext))]
-    [Migration("20210831122434_init")]
+    [Migration("20210831134911_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

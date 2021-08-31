@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3uo+T6vJjRV0h6bK6iOq288eiyM/CwP28OBkjNaLLpAlZff4ij8I5Q0zjzKaE+IN5dDES7Vr9Pet9g8AcpY80w==",
+  "dgSpecHash": "65ogHgC6zq5jU6kmRAHz6Sccb/XB+nH0H6oi3RYfF9y4Kmk51GPvTSBgjVIHfShRNtJ5BbkDn9bmGO3j6BeIBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aaron\\source\\repos\\ead2dbRepeat\\ead2dbRepeat\\ead2dbRepeat.csproj",
+  "projectFilePath": "C:\\Users\\Aaron\\Documents\\GitHub\\ead2repeat\\ead2dbRepeat\\ead2dbRepeat\\ead2dbRepeat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aaron\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

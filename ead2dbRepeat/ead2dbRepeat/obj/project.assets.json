@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aaron\\source\\repos\\ead2dbRepeat\\ead2dbRepeat\\ead2dbRepeat.csproj",
+      "projectUniqueName": "C:\\Users\\Aaron\\Documents\\GitHub\\ead2repeat\\ead2dbRepeat\\ead2dbRepeat\\ead2dbRepeat.csproj",
       "projectName": "ead2dbRepeat",
-      "projectPath": "C:\\Users\\Aaron\\source\\repos\\ead2dbRepeat\\ead2dbRepeat\\ead2dbRepeat.csproj",
+      "projectPath": "C:\\Users\\Aaron\\Documents\\GitHub\\ead2repeat\\ead2dbRepeat\\ead2dbRepeat\\ead2dbRepeat.csproj",
       "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aaron\\source\\repos\\ead2dbRepeat\\ead2dbRepeat\\obj\\",
+      "outputPath": "C:\\Users\\Aaron\\Documents\\GitHub\\ead2repeat\\ead2dbRepeat\\ead2dbRepeat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
